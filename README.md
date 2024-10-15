@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data Visualization and Scipy Classifier/Regression Models
 - 📫 How to reach me: via Github message box? Is there one?
-- 😄 Pronouns: ...
+- 😄 Pronouns: He／Him／His
 - ⚡ Fun fact: I was a tech engineer then moved to hospitality industry, and now I am on the way to the coding world.
 
 <!---
